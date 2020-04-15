@@ -19,8 +19,8 @@ public class Kishore extends KK {
 		return s+str;
 	}
 	
-	public static String getName(String id) {
-		return id;
+	public static String getName(String ss) {
+		return ss;
 	}
 	
 
